@@ -1,4 +1,4 @@
-// chiediamo all'utente due parole in sucessione, 
+// chiediamo all'utente due parole in successione, 
 
 let firstWord = prompt("scrivi una parola");
 let secondWord = prompt("scrivi una seconda parola");
